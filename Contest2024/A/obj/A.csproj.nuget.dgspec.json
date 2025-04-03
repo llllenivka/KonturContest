@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adelinaa/Desktop/Kontur/Contest2024/A/A.csproj": {}
+    "/Users/adelinaa/Desktop/KonturContest/Contest2024/A/A.csproj": {}
   },
   "projects": {
-    "/Users/adelinaa/Desktop/Kontur/Contest2024/A/A.csproj": {
+    "/Users/adelinaa/Desktop/KonturContest/Contest2024/A/A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adelinaa/Desktop/Kontur/Contest2024/A/A.csproj",
+        "projectUniqueName": "/Users/adelinaa/Desktop/KonturContest/Contest2024/A/A.csproj",
         "projectName": "A",
-        "projectPath": "/Users/adelinaa/Desktop/Kontur/Contest2024/A/A.csproj",
+        "projectPath": "/Users/adelinaa/Desktop/KonturContest/Contest2024/A/A.csproj",
         "packagesPath": "/Users/adelinaa/.nuget/packages/",
-        "outputPath": "/Users/adelinaa/Desktop/Kontur/Contest2024/A/obj/",
+        "outputPath": "/Users/adelinaa/Desktop/KonturContest/Contest2024/A/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adelinaa/.nuget/NuGet/NuGet.Config"
