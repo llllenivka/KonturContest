@@ -1,0 +1,14 @@
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/bin/Debug/net9.0/TestA
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/bin/Debug/net9.0/TestA.deps.json
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/bin/Debug/net9.0/TestA.runtimeconfig.json
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/bin/Debug/net9.0/TestA.dll
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/bin/Debug/net9.0/TestA.pdb
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.AssemblyInfoInputs.cache
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.AssemblyInfo.cs
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.csproj.CoreCompileInputs.cache
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.dll
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/refint/TestA.dll
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.pdb
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/TestA.genruntimeconfig.cache
+/Users/adelinaa/Desktop/KonturContest/TestA/TestA/obj/Debug/net9.0/ref/TestA.dll
